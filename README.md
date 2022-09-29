@@ -1,0 +1,1 @@
+Simple Server api with graphql Apollo Server, node and Type-graphql
